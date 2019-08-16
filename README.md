@@ -2,7 +2,7 @@
 Stance Detector with Bidirectional Conditional Encoding implemented in [N3LDG](http://xbna.pku.edu.cn/EN/abstract/abstract3327.shtml).
 
 ## Requirements
-[Intel® MKL[(https://software.intel.com/en-us/mkl)
+[Intel® MKL](https://software.intel.com/en-us/mkl)
 
 [boost](https://www.boost.org/)
 
