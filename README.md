@@ -2,9 +2,9 @@
 Stance Detector with Bidirectional Conditional Encoding implemented in [N3LDG](http://xbna.pku.edu.cn/EN/abstract/abstract3327.shtml).
 
 ## Requirements
-[Intel® MKL](https://software.intel.com/en-us/mkl)
-
-[boost](https://www.boost.org/)
+* Intel® MKL [[link]](https://software.intel.com/en-us/mkl)
+* boost [[link]](https://www.boost.org/)
+* cmake [[link]](https://cmake.org/)
 
 ## Usage
 ```bash
@@ -15,4 +15,4 @@ make
 ```
 
 ## Reference
-Stance Detection with Bidirectional Conditional Encoding [[paper]](https://www.aclweb.org/anthology/D16-1084)
+Stance Detection with Bidirectional Conditional Encoding [[paper link]](https://www.aclweb.org/anthology/D16-1084)
