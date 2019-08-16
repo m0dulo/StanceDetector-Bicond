@@ -1,5 +1,6 @@
 # StanceDetector-Bicond
-Stance Detector with Bidirectional Conditional Encoding implemented in [N3LDG](http://xbna.pku.edu.cn/EN/abstract/abstract3327.shtml).
+Stance Detector with Bidirectional Conditional Encoding implemented in [N3LDG](http://xbna.pku.edu.cn/EN/10.13209/j.0479-8023.2018.065).
+N3LDG is a lightweight neural network library for natural language processing
 
 ## Requirements
 * Intel® MKL [[link]](https://software.intel.com/en-us/mkl)
