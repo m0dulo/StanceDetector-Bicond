@@ -1,0 +1,13 @@
+outBest = .debug
+maxInstance = -1
+maxIter = 100
+batchSize = 1
+adaEps = 0.00000001
+adaAlpha = 0.001
+regParameter = 0.0001
+cnnLayerSize = 10
+hiddenSize = 100
+verboseIter = 100
+dropProb = 0.1
+wordEmbFineTune = false
+wordcontext = 2
