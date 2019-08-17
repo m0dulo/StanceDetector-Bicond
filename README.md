@@ -16,5 +16,8 @@ make
 ../bin/StanceDetector -train ../data/stanceResponse.train.txt -dev ../data/stanceResponse.dev -test ../data/stanceResponse.test.txt -option ../data/option.debug
 ```
 
+## Parameter tuning
+For details, see [老中医——基于网格搜索的自动调参程序](https://github.com/m0dulo/laozhongyi)
+
 ## Reference
 Stance Detection with Bidirectional Conditional Encoding [[paper link]](https://www.aclweb.org/anthology/D16-1084)
