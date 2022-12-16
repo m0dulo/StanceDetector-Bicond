@@ -3,7 +3,7 @@ Stance Detector with Bidirectional Conditional Encoding implemented in [N3LDG](h
 
 N3LDG is a lightweight neural network library for natural language processing.
 ## Model
-![image](https://user-images.githubusercontent.com/17985352/208013331-05d8bd79-b1a2-4bbd-bc10-22c776247c0f.png)
+![image](https://user-images.githubusercontent.com/17985352/208013331-05d8bd79-b1a2-4bbd-bc10-22c776247c0f.png)  
 For detailed information, please see [the compution graph](https://github.com/m0dulo/StanceDetector-Bicond/blob/master/StanceDetector/model/ComputionGraph.h)
 ## Requirements
 * Intel® MKL [[link]](https://software.intel.com/en-us/mkl)
